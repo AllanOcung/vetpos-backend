@@ -1,0 +1,14 @@
+
+# sqlite database file
+db.sqlite3
+# Django migrations
+migrations/
+
+# Python cache files
+__pycache__/
+# Python bytecode files
+*.pyc
+# Virtual environment directories  
+venv/
+# Logs
+*.log
