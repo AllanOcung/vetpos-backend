@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     # Change 'api' to 'api.apps.ApiConfig'
     # This ensures the ready() method in api/apps.py is executed.
     'api.apps.ApiConfig',
+    'inventory.apps.InventoryConfig',
 ]
 
 # Add this setting to use our custom authentication backend.
